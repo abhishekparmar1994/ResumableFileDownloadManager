@@ -1,0 +1,25 @@
+Above you’ll find links to downloadable editions of the text of Content. These downloads are licensed under a Creative Commons Attribution-Noncommercial-ShareAlike license, which lets you share it, remix it, and share your remixes, provided that you do so on a noncommercial basis.
+
+It’s kind of a tradition around here that my readers convert my ebooks to their favorite formats and send them to me here, and it’s one that I love! If you’ve converted these files to another format, send them to me and I’ll host them, but before you do, make sure you read the following:
+
+    Only one conversion per format, first come, first serve. That means that if someone’s already converted the file to a Femellhebber 3000 document, that’s the one you’re going to find here. I just don’t know enough about esoteric readers to adjudicate disputes about what the ideal format is for your favorite device.
+    Make sure include a link to the reader as well. When you send me an ebook file, make sure that you include a link to the website for the reader technology as well so that I can include it below.
+    No cover art. The text of this book is freely copyable, the cover, not so much. The rights to it are controlled by my publisher, so don’t include it with your file.
+    No DRM. The Creative Commons license prohibits sharing the file with “DRM” (sometimes called “copy-protection”) on it, and that’s fine by me. Don’t send me the book with DRM on it. If you’re converting to a format that has a DRM option, make sure it’s switched off.
+
+Fan conversions:
+
+    Audiobook, read by Jan Rubak
+    Braille (Grade 2): .BRF file (Thanks, Buddy Brannan!)
+    ePub: .EPUB file (Thanks, Hadrien Gardeur!)
+    eReader: .PDB file
+    eReader: iPhone compatible .PDB file (Thanks, Chris Meadows!)
+    HTML: .XHTML file (Thanks, Stephen Paul Weber!)
+    HTML (simplified): .HTML file (Thanks, Miriam!)
+    iPod Notes: .ZIP file(Thanks, Corey Johnson!)
+    Open Document: .ODG file (Thanks, Chris Almond!)
+    MobiPocket: .MOBI file (Thanks, Hadrien Gardeur!)
+    MobiPocket: .MOBI file (Thanks, Hadrien Gardeur!)
+    Plucker: .PDB file (Thanks, Michael Hellwig!)
+    Rich Text Format: .RTF file (Thanks, Michael Sauers!)
+    SiSu: .SST file (Thanks, Ralph Amissah!)
