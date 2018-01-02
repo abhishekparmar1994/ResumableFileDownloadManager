@@ -2,10 +2,6 @@
 	include_once 'php/firstRun.php';
 ?>
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 	<head>
